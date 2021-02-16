@@ -1,7 +1,8 @@
 Awesome-Solutions-Engineering
 ===
 
-A curated list of awesome solutions engineering resources
+A curated list of awesome solutions engineering resources.
+
 This is very much a work in progress as resources online is a bit sparse and seem to mostly cover the same topics.
 
 Table of Contents
@@ -15,7 +16,9 @@ What is Solutions Engineering
 ===
 
 Solutions Engineering is a cross-functional role that primarily serves to bridge the gap between customer needs and the product teams. They work closely with many teams like sales, customers, development, marketing, design, and the product teams to find the intersection on a product that the customer wants and the development team can deliver. 
+
 Solutions Engineers come from many different backgrounds, but they often require a good understanding of tech, especially in their specialized fields. 
+
 As a Solutions Engineer, you can expect to primarily work with customers to figure out their business needs and eliminate glaring roadblocks to their intended outcome. You will then be working with your internal teams to translate those business needs and develop a possible solution with the allotted resources. This process will require many discovery calls to collect customer's requirements and ensure the POC and demos deliver on those requirements smoothly.
 
 Is Solutions Engineering For You
